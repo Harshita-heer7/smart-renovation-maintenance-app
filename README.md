@@ -4,6 +4,7 @@ renovation, maintenance, and small construction projects. The system enables use
 renovation/maintenance services, receive accurate quotations, assign service providers, and track project
 progress through daily updates and reports. The aim is to simplify home and office management by providing
 transparency, cost-efficiency, and reliable service tracking.
+
 OBJECTIVES:
 1. To allow users to easily submit renovation and maintenance requests.
 2. To generate accurate cost quotations using material and labour rates.
