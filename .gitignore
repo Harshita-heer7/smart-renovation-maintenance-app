@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual env
+venv/
+venv1/
+env/
+.env/
+.Pipfile
+Pipfile.lock
+
+# Kivy / build artifacts
+*.apk
+*.aab
+build/
+dist/
+__pycache__/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: large data / models you may not want in repo
+data/*.db
+models/
+assets/uploads/
